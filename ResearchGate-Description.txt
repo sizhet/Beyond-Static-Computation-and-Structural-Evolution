@@ -1,0 +1,14 @@
+Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence (v1.0.0)
+
+This research overview brings together five complementary Structural Intelligence research programs—Adversarial Structural Security Intelligence (ASSI), Dynamic Bucket Tree of Permutation (D-BTP), Constrained Delta Evolution (CDE), World Entity and Structural Intelligence Operations (WE-SIO), and Object-Centric Structural Reasoning and Evolution (OCSRE)—to investigate a common direction beyond isolated, one-shot computation. It proposes persistent, object-native representations that retain identity, state, relations, history, capabilities, and unresolved residuals; constraint-governed Delta evolution with path memory and adaptive candidate generation; and continuous structural discovery through selective observation, CCC, Two-Way CCC, pattern triggering, sandbox evaluation, and feedback. The framework further examines how discoveries can become reusable capabilities through evidence-bound validation, cross-domain relay, and collective learning. Six core papers, three interface and governance specifications, and three proposed experimental laboratories—SQL/CDC discovery, dynamic school transportation scheduling, and stock-pattern discovery—organize its research questions and falsifiable hypotheses. This v1.0.0 release is a conceptual and specification-first research contribution, not a claim of experimentally demonstrated superiority or a completed runtime implementation. Its central aim is to establish when persistent structural context, residual retention, and constrained evolution produce measurable advantages over appropriate existing baselines, and when they do not.
+
+Related source repositories:
+ASSI: https://github.com/sizhet/Adversarial-Structural-Security-Intelligence
+D-BTP: https://github.com/sizhet/Dynamic-Bucket-Tree-of-Permutation-and-Directional-Structural-Evolution
+CDE: https://github.com/sizhet/Constrained-Delta-Evolution
+WE-SIO: https://github.com/sizhet/World-Entity-and-Structural-Intelligence-Operations
+OCSRE: https://github.com/sizhet/Object-Centric-Structural-Reasoning-and-Evolution
+
+Authors: Sizhe Tan and GPT-Obot
+License: Apache-2.0
+DOI: Pending assignment upon publication; no DOI is claimed here.
