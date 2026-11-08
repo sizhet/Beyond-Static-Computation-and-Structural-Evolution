@@ -1,0 +1,29 @@
+{
+  "title": "Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence",
+  "description": "A specification-first research synthesis connecting five complementary research programs—Adversarial Structural Security Intelligence (ASSI), Dynamic Bucket Tree of Permutation (D-BTP), Constrained Delta Evolution (CDE), World Entity and Structural Intelligence Operations (WE-SIO), and Object-Centric Structural Reasoning and Evolution (OCSRE). The repository examines object-native representations, residual-first in-situ intelligence, constrained structural evolution, persistent structural discovery, and evidence-bound capability relay. It provides research papers, interface and validation specifications, falsifiable hypotheses, and proposed experiments in SQL/CDC discovery, dynamic scheduling, and financial time-series analysis. The proposed mechanisms are research hypotheses and designs, not claims of demonstrated superiority or completed experimental validation.",
+  "creators": [
+    {"name": "Tan, Sizhe"},
+    {"name": "GPT-Obot"}
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "keywords": [
+    "structural intelligence",
+    "object-centric computing",
+    "WE-SIO",
+    "constrained delta evolution",
+    "CDE",
+    "OCSRE",
+    "residual-first intelligence",
+    "persistent structural discovery",
+    "capability relay",
+    "collective learning",
+    "specification-first research",
+    "reproducible validation"
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "notes": "Initial research synthesis and experimental designs. No DOI, repository URL, or completed validation is asserted in this metadata."
+}
