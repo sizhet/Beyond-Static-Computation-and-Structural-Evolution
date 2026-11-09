@@ -336,7 +336,7 @@ action_authority: sandbox_only
 - `research/RESEARCH-DIVERGENCES.md`
 - `research/OPEN-QUESTIONS.md`
 - `research/TESTABLE-HYPOTHESES.md`
-- `STRUCTURAL-CLAIMS-REGISTRY.md` (planned)
+- `research/STRUCTURAL-CLAIMS-REGISTRY.md`
 
 Paths reflect the proposed repository structure; adapt relative links if the final directory layout differs.
 

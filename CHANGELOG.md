@@ -11,7 +11,7 @@ The format follows the principles of [Keep a Changelog](https://keepachangelog.c
 ### Planned
 
 - Complete and cross-check `STRUCTURAL-CLAIMS-REGISTRY.md`, including stable claim identifiers, maturity levels, evidence links, and unresolved counterarguments.
-- Audit links, figure names, captions, and the ten planned figure placements against the final repository contents.
+- Audit links, figure names, captions, and the ten figure placements against the final repository contents.
 - Publish versioned experimental preregistrations, data provenance statements, and reproducibility packages when experiments are actually conducted.
 - Record independent replication attempts, counterexamples, failed experiments, and revisions to previously proposed claims.
 - Consider executable reference implementations only after specifications and conformance criteria are stable enough to support meaningful comparison.
@@ -61,7 +61,7 @@ These are **experimental protocols**, not reports of successful completed experi
 - `START-HERE.md`: audience-specific reading paths and study entry points.
 - `CONTENTS.md`: navigable inventory and research traceability map.
 - `GLOSSARY.md`: terminology and distinctions across the five source programs and the synthesis.
-- `FIGURE-INDEX.md`: planned figure filenames, captions, insertion points, and release checks.
+- `FIGURE-INDEX.md`: figure filenames, captions, insertion points, and release checks.
 - `FUTURE-DIRECTIONS.md`: prioritized research directions and validation dependencies.
 - `CHANGELOG.md`: versioned record of research-artifact changes and release caveats.
 - `CITATION.cff`, `.zenodo.json`, `LICENSE`, and release notes: publication metadata and licensing files to be finalized and verified for the tagged release.

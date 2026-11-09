@@ -174,7 +174,7 @@ Milestones are **proposed checkpoints**, not completed results. See [`research/V
 
 ## 9. Figures and Visual Navigation
 
-The planned figures align with the six papers, three laboratories, and validation program:
+The figures align with the six papers, three laboratories, and validation program:
 
 | Figure | Subject | Primary location |
 |---|---|---|

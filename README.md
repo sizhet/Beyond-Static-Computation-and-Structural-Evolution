@@ -214,7 +214,7 @@ This program follows the working principles **Specifications / Contracts First**
 
 ## 13. Citation, license, and release status
 
-The intended license is **Apache License 2.0**; see `LICENSE` once the repository is assembled. Citation metadata is planned in `CITATION.cff` and `.zenodo.json`. **Do not cite a DOI until a DOI has actually been assigned.** Until then, cite the repository URL, document title, author information in its published metadata, version, and access date as appropriate.
+The intended license is **Apache License 2.0**; see `LICENSE` once the repository is assembled. Citation metadata is in `CITATION.cff` and `.zenodo.json`. **Do not cite a DOI until a DOI has actually been assigned.** Until then, cite the repository URL, document title, author information in its published metadata, version, and access date as appropriate.
 
 This README describes a proposed and partially drafted research release. No repository DOI, empirical superiority, or completed independent validation is asserted here.
 

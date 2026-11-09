@@ -254,7 +254,7 @@ These are proposed falsifiable hypotheses, not empirical findings.
 
 ## 18. Relationship to the research series
 
-This specification operationalizes the persistent discovery direction of `005-Persistent-Structural-Discovery.md`, building on `002-WE-SIO-Object-Native-Intelligence.md`, `003-Structural-Evolution-Computing.md`, and `004-Residual-First-In-Situ-Intelligence.md`. `SPEC-001` defines the underlying object/residual/delta interfaces; the planned `SPEC-003-Validation-and-Relay-Contracts.md` should formalize evidence gates, capability packaging, and transfer validation in greater detail.
+This specification operationalizes the persistent discovery direction of `005-Persistent-Structural-Discovery.md`, building on `002-WE-SIO-Object-Native-Intelligence.md`, `003-Structural-Evolution-Computing.md`, and `004-Residual-First-In-Situ-Intelligence.md`. `SPEC-001` defines the underlying object/residual/delta interfaces; the `SPEC-003-Validation-and-Relay-Contracts.md` should formalize evidence gates, capability packaging, and transfer validation in greater detail.
 
 ### Foundational repositories
 

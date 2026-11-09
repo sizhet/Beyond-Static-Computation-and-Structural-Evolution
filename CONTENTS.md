@@ -88,7 +88,7 @@ These are **proposed experimental designs**. No performance figures, market retu
 
 ## 6. Figures (`figures/`)
 
-The ten planned official figures and their primary insertion points are:
+The ten official figures and their primary insertion points are:
 
 | Figure | File | Primary document |
 | --- | --- | --- |
@@ -189,7 +189,7 @@ Beyond-Static-Computation-and-Structural-Evolution/
 │   ├── SPEC-002-Persistent-Discovery-Loop.md
 │   └── SPEC-003-Validation-and-Relay-Contracts.md
 ├── research/
-│   ├── STRUCTURAL-CLAIMS-REGISTRY.md       # planned
+│   ├── STRUCTURAL-CLAIMS-REGISTRY.md       
 │   ├── RESEARCH-DIVERGENCES.md
 │   ├── OPEN-QUESTIONS.md
 │   ├── TESTABLE-HYPOTHESES.md
@@ -200,12 +200,12 @@ Beyond-Static-Computation-and-Structural-Evolution/
 │   └── EXP-003-Stock-Pattern-Lab.md
 ├── figures/
 │   └── Fig-001-...png through Fig-010-...png
-├── GLOSSARY.md                              # planned
-├── FIGURE-INDEX.md                          # planned
-├── FUTURE-DIRECTIONS.md                     # planned
-├── CHANGELOG.md                             # planned
-├── CITATION.cff                             # planned
-├── .zenodo.json                             # planned
+├── GLOSSARY.md                              
+├── FIGURE-INDEX.md                          
+├── FUTURE-DIRECTIONS.md                     
+├── CHANGELOG.md                             
+├── CITATION.cff                             
+├── .zenodo.json                             
 └── LICENSE                                  # verify before release
 ```
 
