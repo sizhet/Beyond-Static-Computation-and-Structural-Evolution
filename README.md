@@ -220,4 +220,11 @@ This README describes a proposed and partially drafted research release. No repo
 
 ---
 
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+---
+
 **Closing perspective:** The most valuable output of persistent structural intelligence may be neither a single solution nor a single model, but an evidence-bearing system that remembers what remains unexplained, learns where to look next, and makes validated improvements reusable across contexts. Whether this yields a practical advantage is precisely what the proposed experiments are designed to test.
