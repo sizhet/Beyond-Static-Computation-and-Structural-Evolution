@@ -216,6 +216,14 @@ Collective feedback, revision, or retirement
 
 The loop should not equate an increasing number of patterns with intelligence growth. Stronger evidence would be a rising rate of **validated, nonredundant, transferable improvements per unit of total resource** under prospective testing.
 
+---
+
+![Fig-006-Intelligence-Spillover-and-Collective-Relay.png](../figures/Fig-006-Intelligence-Spillover-and-Collective-Relay.png)
+
+*A local discovery may become a relayable capability only after its evidence, interfaces, applicability limits, provenance, known failures, and unresolved questions are packaged. Receiving domains must perform their own conformance and applicability checks. Collective learning includes successful transfers, failed transfers, and explicit leftover research questions.*
+
+---
+
 ### 9.1 Opportunity Localization
 
 A persistent system cannot investigate everything at equal depth. It can maintain low-cost coverage while allocating expensive analysis according to estimated evidence quality, potential utility, novelty, risk, and computational cost. The policy must also reserve an exploration budget for neglected regions; otherwise the system can lock itself into previously successful patterns and miss new opportunities.

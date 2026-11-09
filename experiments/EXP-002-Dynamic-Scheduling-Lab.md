@@ -11,6 +11,14 @@
 
 This laboratory tests whether a persistent object-centric structural intelligence system can improve the quality, responsiveness, and transferability of solutions to dynamic school-bus scheduling problems. School transportation provides explicit operational constraints and measurable objectives, yet frequent changes in student demand, pickup windows, travel time, vehicle availability, and routing rules. It is therefore a useful testbed for separating the contribution of dynamic state representation, residual retention, constrained delta generation, discovery-policy evolution, and relay. The proposed WE-SIO / CDE / OCSRE stack is compared against static optimization, rolling-horizon replanning, incremental repair, and established adaptive heuristics under equalized resource budgets. The experiment does not assume that structural evolution will outperform conventional optimization. Its objective is to identify the conditions under which it does, the costs of doing so, and the cases in which it fails.
 
+---
+
+![Fig-008-Dynamic-Scheduling-Evolution-Laboratory.png](../figures/Fig-008-Dynamic-Scheduling-Evolution-Laboratory.png)
+
+*Dynamic school transportation serves as a constrained evolution testbed. Changes in students, stops, vehicles, or travel conditions generate residuals and candidate schedule deltas; safety, capacity, timing, and service constraints gate repairs. CDE/OCSRE proposals are compared against reoptimization, rolling-horizon repair, and adaptive search under matched budgets.*
+
+---
+
 ## 1. Research Position and Scope
 
 This is the second proposed experimental pool for persistent structural discovery. Unlike the SQL discovery laboratory, which emphasizes semantic alignment and discovery of data relations, this laboratory emphasizes **feasible state transitions and controlled evolution under changing constraints**.

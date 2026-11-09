@@ -219,6 +219,14 @@ Versioned WE-SIO Object / Event Stream
 
 The arrows describe a governance loop, not a requirement that every event pass through all stages. Lightweight observations may be aggregated; some residuals may expire; some discoveries may require human review.
 
+---
+
+![Fig-004-Residual-First-In-Situ-Intelligence-Loop.png](../figures/Fig-004-Residual-First-In-Situ-Intelligence-Loop.png)
+
+*Residual-first in-situ intelligence treats unresolved prediction differences, constraint conflicts, explanation gaps, and opportunity signals as persistent, traceable objects. Residual production, retention, localization, inference, learning, structural correction, and feedback form a proposed loop; persistence enables later investigation but does not itself guarantee discovery or improvement.*
+
+---
+
 ### 8.1 A constrained transition
 
 For object state \(S_t\), residual set \(R_t\), and candidate delta \(\delta_t\):

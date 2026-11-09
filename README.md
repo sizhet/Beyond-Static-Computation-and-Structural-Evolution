@@ -37,6 +37,14 @@ The program explores six linked propositions:
 
 Each proposition is a **research claim to investigate**, not a demonstrated universal result.
 
+---
+
+![Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png](figures/Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png)
+
+*Five complementary research programs—Adversarial Structural Security Intelligence (ASSI), Dynamic Bucket Tree of Permutation (D-BTP), Constrained Delta Evolution (CDE), World Entity and Structural Intelligence Operations (WE-SIO), and Object-Centric Structural Reasoning and Evolution (OCSRE)—contribute distinct structures to a proposed research synthesis. The convergence represents an architectural hypothesis, not an experimentally established unification.*
+
+---
+
 ## 3. Architectural picture
 
 ```text

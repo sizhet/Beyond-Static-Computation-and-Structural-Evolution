@@ -78,6 +78,14 @@ New entity types, relations, metrics, and capabilities should be introducible wi
 
 The central engineering proposition is a **small, stable Core Frame** paired with an open but contract-governed plugin ecosystem.
 
+---
+
+![Fig-002-WE-SIO-Object-Native-Intelligence-Architecture.png](../figures/Fig-002-WE-SIO-Object-Native-Intelligence-Architecture.png)
+
+*A proposed WE-SIO object-native architecture preserves persistent identity, state, relations, history, residuals, and capabilities through a core frame extended by plugins. SQL table, row, column, and change-data-capture structures may be aligned at structural, semantic, and operational levels; alignment does not imply replacing conventional databases.*
+
+---
+
 ### 3.1 Core Frame: what should be stable
 
 The core should supply the minimum interoperable machinery:

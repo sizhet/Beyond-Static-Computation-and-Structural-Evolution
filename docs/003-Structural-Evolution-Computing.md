@@ -17,6 +17,12 @@ Classical numerical optimization, simulation, online algorithms, incremental com
 
 ---
 
+![Fig-003-Structural-Evolution-Computing-Architecture.png](../figures/Fig-003-Structural-Evolution-Computing-Architecture.png)
+
+*Proposed structural evolution computing cycle: a state container and constraints delimit candidate delta generation; evaluation, path memory, and validation inform state updates and possible generator improvement. Composable deltas and explicit loop-back rules help control evolution. The architecture must be compared with established dynamic optimization, incremental computation, and adaptive search baselines.*
+
+---
+
 ## 1. The View from Five Research Peaks
 
 The sequence is best read as a chain of progressively generalized *questions*, not as a claim that one repository logically proves the next.

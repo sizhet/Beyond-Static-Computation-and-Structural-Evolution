@@ -12,6 +12,14 @@ This experiment tests whether a persistent, object-centric discovery system buil
 
 This document specifies experiments rather than reporting results. No positive return, intelligence emergence, or superiority is assumed.
 
+---
+
+![Fig-009-Stock-Pattern-Discovery-Laboratory.png](../figures/Fig-009-Stock-Pattern-Discovery-Laboratory.png)
+
+*Nonstationary market data provide a stringent test of persistent structural discovery. Candidate patterns generated from market observations and residuals undergo time-ordered, leakage-controlled, multiple-testing-aware out-of-sample evaluation, followed by transaction-cost, liquidity, and risk analysis. Statistical patterns are not equivalent to tradable comparative advantage.*
+
+---
+
 ## 1. Research Context and Scope
 
 The laboratory operationalizes the research sequence ASSI → D-BTP → CDE → WE-SIO → OCSRE and the program's six thematic papers. Financial markets are a demanding test bed because of regime changes, feedback effects, adversarial adaptation, data revisions, crowded strategies, and transaction costs. This makes them useful for testing the limits of persistent structural discovery, but unsuitable for inferring success from a single profitable simulation.

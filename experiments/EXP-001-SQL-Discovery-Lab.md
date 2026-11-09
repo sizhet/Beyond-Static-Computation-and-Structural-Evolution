@@ -9,6 +9,14 @@
 
 This experiment tests whether a persistent, object-centric discovery system can identify, validate, and relay useful structural relationships in evolving relational databases more effectively than conventional rules, batch analysis, and streaming anomaly detection. SQL tables and change-data-capture (CDC) events are aligned to World Entity and Structural Intelligence Operations (WE-SIO) objects without replacing the database engine. Residuals are retained as first-class, provenance-bearing records; candidate CCC, Two-Way CCC, and pattern triggers are proposed and subjected to independent evaluation. Constrained Delta Evolution (CDE) and Object-Centric Structural Reasoning and Evolution (OCSRE) may adapt discovery policies in isolated sandboxes. The primary outcome is **validated, nonredundant discovery utility per unit total cost**, not the number of patterns generated.
 
+---
+
+![Fig-007-SQL-Discovery-Laboratory.png](../figures/Fig-007-SQL-Discovery-Laboratory.png)
+
+*Proposed SQL discovery laboratory: database snapshots and change-data-capture events are aligned to persistent WE-SIO objects; residual registration and candidate relationship discovery feed sandbox tests and independent validation. Baseline comparisons distinguish gains from object persistence, residual retention, discovery policy, and other components.*
+
+---
+
 ## 1. Research question and scope
 
 Can WE-SIO alignment, persistent residual memory, and governed structural discovery yield measurable improvements in discovering useful, reproducible cross-table and temporal relationships in SQL workloads?

@@ -74,6 +74,14 @@ OCSRE connects object-centered representation to deduction, differential computa
 
 **Transferable observation:** the object can serve as a *logical locus* for observation, reasoning, candidate generation, evaluation, and learning—even when the physical execution is distributed among external runtimes. Co-location of semantics does not require co-location of every compute cycle.
 
+---
+
+![Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png](../figures/Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png)
+
+*Five complementary research programs—Adversarial Structural Security Intelligence (ASSI), Dynamic Bucket Tree of Permutation (D-BTP), Constrained Delta Evolution (CDE), World Entity and Structural Intelligence Operations (WE-SIO), and Object-Centric Structural Reasoning and Evolution (OCSRE)—contribute distinct structures to a proposed research synthesis. The convergence represents an architectural hypothesis, not an experimentally established unification.*
+
+---
+
 ## 3. Why the Five Are More Than a Sequence
 
 A useful synthesis is:

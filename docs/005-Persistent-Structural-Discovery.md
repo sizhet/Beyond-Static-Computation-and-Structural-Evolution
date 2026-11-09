@@ -186,6 +186,14 @@ A possible prioritization criterion is:
 
 subject to minimum exploration quotas, safety constraints, and domain-specific policy. This expression is illustrative: benefit, risk, and cost must be calibrated; a naive ratio can over-prioritize cheap but trivial discoveries. Uncertainty-aware exploration and independent audit remain necessary.
 
+---
+
+![Fig-005-Persistent-Structural-Discovery-and-SEFL.png](../figures/Fig-005-Persistent-Structural-Discovery-and-SEFL.png)
+
+*The proposed Structural Emergence Fishing Laboratory (SEFL) uses adaptive observation, opportunity localization, CCC, Two-Way CCC, pattern triggering, sandbox trials, and independent validation in a persistent discovery loop. A resource-aware control policy determines what to observe and investigate; observed associations must not be conflated with causal explanations or validated capabilities.*
+
+---
+
 ## 8. Structural Emergence Fishing Laboratory (SEFL)
 
 **SEFL** is a proposed integration testbed for persistent structural discovery. The fishing metaphor emphasizes systematic observation and the ability to discover worthwhile patterns without specifying every question in advance. It should not be confused with unrestricted surveillance or uncontrolled action.
