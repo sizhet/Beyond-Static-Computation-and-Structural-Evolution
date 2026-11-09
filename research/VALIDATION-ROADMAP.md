@@ -9,6 +9,14 @@
 
 > **Research status.** The architectures and advantages described here are proposals, not established empirical results. Each claimed benefit requires reproducible evidence against appropriate baselines. Negative findings, unresolved residuals, and disagreements are first-class research outputs.
 
+---
+
+![Fig-010-Structural-Claims-Validation-and-Relay-Roadmap.png](../figures/Fig-010-Structural-Claims-Validation-and-Relay-Roadmap.png)
+
+*Evidence governance links structural claims to falsifiable hypotheses, specifications, conformance tests, controlled experiments, reproducible evidence, and conditional capability promotion. Unverified, failed, or contradictory results return to the research registry instead of being silently promoted to validated capability. Relay packages preserve provenance, scope, and residual questions.*
+
+---
+
 ## 1. Purpose
 
 This roadmap converts the six synthesis papers, three interface specifications, and the open research agenda into a staged validation program. Its purpose is to distinguish: (i) representational feasibility; (ii) contract conformance; (iii) measurable engineering improvement; (iv) discovery of valid and transferable structures; and (v) improvement in the discovery process itself.
