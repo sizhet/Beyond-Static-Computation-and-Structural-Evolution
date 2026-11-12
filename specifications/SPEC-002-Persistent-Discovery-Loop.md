@@ -146,9 +146,9 @@ OCSRE MAY coordinate object-centric reasoning, evaluation plugins, and learning.
 
 A proposed prioritization objective is:
 
-\[
-\operatorname{priority}(o)=\frac{\mathbb E[\text{information gain}+\lambda\,\text{utility gain}\mid o]-\rho\,\text{risk}(o)}{\epsilon+\text{estimated cost}(o)}
-\]
+$$
+\mathrm{priority}(o)=\frac{\mathbb E[\text{information gain}+\lambda\,\text{utility gain}\mid o]-\rho\,\text{risk}(o)}{\epsilon+\text{estimated cost}(o)}
+$$
 
 This is an illustrative policy, **not** a universal scoring law. The control plane SHOULD reserve a measurable exploration budget for under-observed objects, maintain per-object and global quotas, and document why investigations are deferred. Broad logical coverage does not imply continuous full-rate physical monitoring of every object.
 
