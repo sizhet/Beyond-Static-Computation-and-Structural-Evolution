@@ -43,20 +43,20 @@ Earlier Structural Intelligence (SI) work provides additional mechanisms: SIF Lo
 
 ## 3. Defining Persistent Structural Discovery
 
-Let a set of world entities at time \(t\) be \(W_t\), with typed states, relations, versions, and provenance. Let \(R_t\) be a set of retained residuals, \(H_t\) a set of candidate hypotheses, \(K_t\) a registry of validated knowledge and capabilities, and \(B_t\) a finite resource budget. A discovery controller selects an observation or experiment action:
+Let a set of world entities at time $t$ be $W_t$, with typed states, relations, versions, and provenance. Let $R_t$ be a set of retained residuals, $H_t$ a set of candidate hypotheses, $K_t$ a registry of validated knowledge and capabilities, and $B_t$ a finite resource budget. A discovery controller selects an observation or experiment action:
 
-\[
+$$
  a_t = \pi(W_t,R_t,H_t,K_t,B_t),
-\]
+$$
 
 and a governed transition updates the research state:
 
-\[
+$$
  (W_{t+1},R_{t+1},H_{t+1},K_{t+1})
  = T_C(W_t,R_t,H_t,K_t,a_t,e_{t+1}),
-\]
+$$
 
-where \(e_{t+1}\) denotes new evidence and \(T_C\) enforces applicable contracts and constraints. This is a conceptual specification, not a proof that the controller improves itself.
+where $e_{t+1}$ denotes new evidence and $T_C$ enforces applicable contracts and constraints. This is a conceptual specification, not a proof that the controller improves itself.
 
 A persistent discovery system should exhibit at least six observable behaviors:
 
@@ -125,7 +125,7 @@ Candidate generation can use object neighborhoods, residual similarity, temporal
 
 ### 6.2 Two-Way CCC: reciprocal evidence rather than one-directional matching
 
-A Two-Way CCC tests whether the candidate relation is supported from more than one relevant direction. For instance, do anomalous objects share condition \(C\), and does condition \(C\) predict or explain anomalies among otherwise comparable objects? Bidirectional checks can expose weak or misleading one-way matches.
+A Two-Way CCC tests whether the candidate relation is supported from more than one relevant direction. For instance, do anomalous objects share condition $C$, and does condition $C$ predict or explain anomalies among otherwise comparable objects? Bidirectional checks can expose weak or misleading one-way matches.
 
 Two-way support does **not** by itself establish causality. Confounding, selection effects, common causes, and feedback loops remain possible. Reciprocal evidence should be logged separately, with distinct sampling and evaluation conditions.
 
@@ -177,12 +177,12 @@ Opportunity types may include prediction improvement, constraint repair, new ent
 
 A possible prioritization criterion is:
 
-\[
- \operatorname{Priority}(o) =
- \frac{\operatorname{ExpectedValidatedGain}(o)
-       - \lambda\operatorname{Risk}(o)}
-      {\operatorname{ExpectedCost}(o)+\epsilon},
-\]
+$$
+ \mathrm{Priority}(o) =
+ \frac{\mathrm{ExpectedValidatedGain}(o)
+       - \lambda\mathrm{Risk}(o)}
+      {\mathrm{ExpectedCost}(o)+\epsilon},
+$$
 
 subject to minimum exploration quotas, safety constraints, and domain-specific policy. This expression is illustrative: benefit, risk, and cost must be calibrated; a naive ratio can over-prioritize cheap but trivial discoveries. Uncertainty-aware exploration and independent audit remain necessary.
 

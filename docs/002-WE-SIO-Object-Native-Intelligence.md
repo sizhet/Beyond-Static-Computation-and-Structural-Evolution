@@ -44,9 +44,9 @@ An ordinary object groups fields and methods. A database row groups typed values
 
 A candidate world-entity frame can be modeled as:
 
-\[
+$$
 W_e = (I, S, R, H, C, P, A, X, V)
-\]
+$$
 
 where:
 

@@ -305,9 +305,9 @@ Transfer claims need metrics that cannot be improved simply by producing more ar
 
 A possible research score is a vector rather than a single optimized number:
 
-\[
+$$
 M=(Y_{validated}, T_{success}, C_{adapt}, D_{durability}, R_{reproduce}, G_{overhead}).
-\]
+$$
 
 Any scalar aggregation should disclose stakeholder weights and constraints. Otherwise a system can appear to improve by optimizing a narrow metric while worsening reliability, safety, or transfer cost.
 

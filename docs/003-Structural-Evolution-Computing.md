@@ -95,31 +95,31 @@ This bridge is a proposed composition. It should not be confused with a proven s
 
 Let a versioned structural state be
 
-\[
+$$
 S_t=(X_t,R_t,G_t,E_t,P_t,H_t,V_t),
-\]
+$$
 
 where:
 
-- \(X_t\): object attributes and current values;
-- \(R_t\): typed relations and dependency links;
-- \(G_t\): candidate-generation methods and capability references;
-- \(E_t\): evaluation methods and benchmarks;
-- \(P_t\): policies, authorization, and resource controls;
-- \(H_t\): history, evidence, path memory, and prior residuals;
-- \(V_t\): versions and provenance.
+- $X_t$: object attributes and current values;
+- $R_t$: typed relations and dependency links;
+- $G_t$: candidate-generation methods and capability references;
+- $E_t$: evaluation methods and benchmarks;
+- $P_t$: policies, authorization, and resource controls;
+- $H_t$: history, evidence, path memory, and prior residuals;
+- $V_t$: versions and provenance.
 
-A candidate delta \(\delta\) is a typed proposal to transform some authorized portion of \(S_t\). Its application is a *partial* function:
+A candidate delta $\delta$ is a typed proposal to transform some authorized portion of $S_t$. Its application is a *partial* function:
 
-\[
+$$
 T(S_t,\delta;C_t) \rightarrow
 \begin{cases}
 (S_{t+1},\pi_t), & \text{if admissible and validated},\\
 (\bot,\pi_t), & \text{otherwise},
 \end{cases}
-\]
+$$
 
-where \(C_t\) denotes current constraints, \(\pi_t\) is a decision/evidence record, and \(\bot\) indicates no committed transition.
+where $C_t$ denotes current constraints, $\pi_t$ is a decision/evidence record, and $\bot$ indicates no committed transition.
 
 The important design choice is **not** that all changes are accepted. A proposal must survive authorization, type checking, feasibility checks, and task-specific validation before a state transition is committed.
 
@@ -152,7 +152,7 @@ D-BTP's path constraints motivate recording whether a particular delta has alrea
 
 ### 4.3 Adaptive branching
 
-A state may generate \(M\) candidate deltas and retain \(N\) survivors, with \(M\) and \(N\) chosen dynamically from budget, uncertainty, and observed value. Branching is a resource allocation policy, not evidence of intelligence by itself.
+A state may generate $M$ candidate deltas and retain $N$ survivors, with $M$ and $N$ chosen dynamically from budget, uncertainty, and observed value. Branching is a resource allocation policy, not evidence of intelligence by itself.
 
 ## 5. Residual as an Active Computational Object
 
@@ -220,7 +220,7 @@ If a system can change the metric used to judge its own success, it may optimize
 
 ## 8. From Computation to Structural Evolution
 
-A system that merely updates \(X_t\) is doing state evolution. A stronger system may propose changes to \(G_t\) (candidate generators), \(R_t\) (representation and relations), or a governed subset of \(E_t\) (evaluation procedures). This is the transition toward *evolution of the discovery process*.
+A system that merely updates $X_t$ is doing state evolution. A stronger system may propose changes to $G_t$ (candidate generators), $R_t$ (representation and relations), or a governed subset of $E_t$ (evaluation procedures). This is the transition toward *evolution of the discovery process*.
 
 Three nested learning loops are useful:
 

@@ -154,17 +154,17 @@ It is important not to caricature classical computing. Dynamic programming, onli
 
 A conceptual state transition can be written:
 
-\[
+$$
 S_{t+1} = T(S_t, \Delta_t; C_t), \qquad \Delta_t \in \mathcal{A}(S_t,C_t)
-\]
+$$
 
-where \(S_t\) is a versioned state container, \(\Delta_t\) a proposed change, \(C_t\) the active constraints, and \(\mathcal{A}\) the admissible delta set. A richer state may include the generator, evaluator, policy, and history:
+where $S_t$ is a versioned state container, $\Delta_t$ a proposed change, $C_t$ the active constraints, and $\mathcal{A}$ the admissible delta set. A richer state may include the generator, evaluator, policy, and history:
 
-\[
+$$
 S_t = (X_t,G_t,E_t,P_t,H_t).
-\]
+$$
 
-Changes to \(G_t\), \(E_t\), or \(P_t\) demand stronger controls than changes to ordinary problem variables. In particular, an evaluator must not certify its own improvement solely by relaxing its success criterion. Independent tests, rollback, and invariant checks are required.
+Changes to $G_t$, $E_t$, or $P_t$ demand stronger controls than changes to ordinary problem variables. In particular, an evaluator must not certify its own improvement solely by relaxing its success criterion. Independent tests, rollback, and invariant checks are required.
 
 The resulting research direction can be called **Structural Evolution Computing**: computation in which selected parts of the problem representation, candidate space, and operational strategy may change under explicit constraints and validation.
 

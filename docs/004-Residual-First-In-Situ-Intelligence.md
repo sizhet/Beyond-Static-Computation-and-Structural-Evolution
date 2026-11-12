@@ -60,13 +60,13 @@ Examples include lost provenance, collapsed uncertainty, unrecorded rejected can
 
 ### 3.2 Boundary-loss hypothesis
 
-Let a computation produce a result \(y\) and contextual remainder \(r\):
+Let a computation produce a result $y$ and contextual remainder $r$:
 
-\[
+$$
 F(x,c) \longrightarrow (y,r).
-\]
+$$
 
-A result-only interface transmits \(y\). A residual-aware interface may preserve a selected, compressed representation \(\hat r\) with provenance and explicit uncertainty. The testable question is whether downstream utility improves enough to justify storage, indexing, privacy, and compute costs.
+A result-only interface transmits $y$. A residual-aware interface may preserve a selected, compressed representation $\hat r$ with provenance and explicit uncertainty. The testable question is whether downstream utility improves enough to justify storage, indexing, privacy, and compute costs.
 
 This is **not** a claim that all discarded intermediate states should be retained. An effective system needs selective retention, summarization, expiry, and deletion contracts.
 
@@ -171,11 +171,11 @@ These advantages are hypotheses. They must be evaluated against strong streaming
 
 A scalable system maintains low-cost broad observation and concentrates expensive reasoning where expected value warrants it. A candidate attention score might be:
 
-\[
+$$
 A_i = \frac{\mathbb E[\Delta U_i] + \lambda\,\mathbb E[IG_i] - \rho\,Risk_i}{Cost_i+\epsilon},
-\]
+$$
 
-where \(\Delta U_i\) is incremental task utility, \(IG_i\) is information gain, and risk and cost are calibrated to the domain. This formula is illustrative, not a universal scoring law. Exploration quotas, uncertainty bounds, fairness constraints, and mandatory safety checks can override its ranking.
+where $\Delta U_i$ is incremental task utility, $IG_i$ is information gain, and risk and cost are calibrated to the domain. This formula is illustrative, not a universal scoring law. Exploration quotas, uncertainty bounds, fairness constraints, and mandatory safety checks can override its ranking.
 
 **Logical coverage can be broad while intensive computation remains selective.** This reconciles the ambition of persistent presence with finite resources.
 
@@ -229,21 +229,21 @@ The arrows describe a governance loop, not a requirement that every event pass t
 
 ### 8.1 A constrained transition
 
-For object state \(S_t\), residual set \(R_t\), and candidate delta \(\delta_t\):
+For object state $S_t$, residual set $R_t$, and candidate delta $\delta_t$:
 
-\[
+$$
 \delta_t \in G(S_t,R_t,H_t), \qquad
 S_{t+1}=T(S_t,\delta_t)
-\]
+$$
 
 subject to explicit feasibility and authority checks:
 
-\[
+$$
 C(S_t,\delta_t)=\mathrm{true}, \qquad
 V(S_t,\delta_t,E_t)\geq \tau.
-\]
+$$
 
-Here \(G\) is a generator, \(H_t\) is path/history memory, \(C\) is a constraint predicate, and \(V\) is an independently governed validation process. If evaluator \(E_t\) itself changes, the change must be tested against a held-out or external reference. Rejected deltas should retain useful evidence, not be promoted as successful learning.
+Here $G$ is a generator, $H_t$ is path/history memory, $C$ is a constraint predicate, and $V$ is an independently governed validation process. If evaluator $E_t$ itself changes, the change must be tested against a held-out or external reference. Rejected deltas should retain useful evidence, not be promoted as successful learning.
 
 ### 8.2 Avoiding recursive self-confirmation
 
