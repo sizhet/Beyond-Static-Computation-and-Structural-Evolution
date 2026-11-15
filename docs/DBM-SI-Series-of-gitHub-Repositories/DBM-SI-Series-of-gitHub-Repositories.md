@@ -333,4 +333,7 @@
 92. Brunelleschi’s Dome and Generative Structural Computing (BD-GSC) - \
     From Incremental Physical Models to CDE–FEM Hybrid Intelligence. \
     Repository: https://github.com/sizhet/BD-GSC
-          
+ 
+93. Scene-Based Delta Intelligence (SBDI) - \
+    Adaptive Scene Boundaries, Framework–Plugin Co-Evolution, and Cross-Domain Structural Spillover. \
+    Repository: https://github.com/sizhet/Scene-Based-Delta-Intelligence-SBDI        
