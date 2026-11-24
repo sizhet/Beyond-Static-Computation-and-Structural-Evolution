@@ -180,7 +180,7 @@ Terms are grouped by research function rather than alphabetically. An alphabetic
 
 **Research Divergence.** A documented disagreement between plausible interpretations, architectures, or experimental approaches, preserved until evidence warrants resolution.
 
-**Testable Hypothesis.** A prediction stating a measurable outcome, comparator, boundary conditions, and failure criteria. See [TESTABLE-HYPOTHESES](TESTABLE-HYPOTHESES.md).
+**Testable Hypothesis.** A prediction stating a measurable outcome, comparator, boundary conditions, and failure criteria. See [TESTABLE-HYPOTHESES](research/TESTABLE-HYPOTHESES.md).
 
 **Baseline.** A specified existing or simpler method against which a proposed system is compared under matched data, budgets, and evaluation conditions.
 

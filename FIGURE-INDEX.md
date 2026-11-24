@@ -152,7 +152,7 @@ This index provides the canonical identifiers, intended filenames, explanatory c
 From a file inside `docs/`, `experiments/`, or `research/`, use `../figures/`:
 
 ```markdown
-![Five source research programs converge into a proposed structural intelligence architecture.](../figures/Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png)
+![Five source research programs converge into a proposed structural intelligence architecture.](figures/Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png)
 
 *Figure 1. Five DOI peaks and structural convergence. Conceptual architecture; not a validation result.*
 ```
