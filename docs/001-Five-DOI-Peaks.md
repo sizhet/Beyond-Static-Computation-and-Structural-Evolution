@@ -3,7 +3,7 @@
 **Research series:** Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence  
 **Document type:** Integrative research perspective / structural observations  
 **Status:** Research synthesis and forward-looking hypotheses; not a claim of experimentally established generality  
-**Version:** 0.1.0 — 2026-11-08
+**Version:** 1.0.0 — 2026-11-08
 
 ## Abstract
 

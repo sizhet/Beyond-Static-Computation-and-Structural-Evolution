@@ -4,7 +4,7 @@
 
 **Status:** Research synthesis and testable architectural proposal  
 **Series:** Beyond Static Computation — Five DOI Peaks  
-**Version:** 0.1.0 (research draft)  
+**Version:** 1.0.0 (research draft)  
 **Date:** 2026-11-08
 
 > **Central thesis.** Structural Evolution Computing (SEC) is a proposed way to organize computation in which object state, candidate transformations, constraints, evaluators, and selected computational capabilities can evolve together under explicit contracts. It does not claim to invent dynamic algorithms. Its research contribution is a proposed *common structural interface* connecting localization, residual-driven candidate generation, constrained evolution, in-situ reasoning, validation, and relay.

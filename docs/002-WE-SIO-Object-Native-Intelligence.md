@@ -3,7 +3,7 @@
 **Research series:** Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence  
 **Document type:** Integrative architectural research essay / testable engineering proposals  
 **Status:** Proposed architecture and research hypotheses; not an experimentally established universal runtime  
-**Version:** 0.1.0 — 2026-11-08  
+**Version:** 1.0.0 — 2026-11-08  
 **Companion:** [001 — Five DOI Peaks](001-Five-DOI-Peaks.md)
 
 ## Abstract

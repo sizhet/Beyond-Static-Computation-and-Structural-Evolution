@@ -4,7 +4,7 @@
 
 **Status:** Research synthesis, architecture proposal, and falsifiable research program  
 **Series:** Beyond Static Computation — Five DOI Peaks  
-**Version:** 0.1.0 (research draft)  
+**Version:** 1.0.0 (research draft)  
 **Date:** 2026-11-08
 
 > **Central thesis.** A structural intelligence system need not wait for a human to pose every problem. Given persistent, governed access to evolving world entities, it may continuously detect residuals, generate candidate relations and questions, test CCC and Two-Way CCC structures, discover useful triggers, and relay independently validated capabilities. The proposed *Structural Emergence Fishing Laboratory* (SEFL) is an experimental architecture for testing this possibility—not a claim that autonomous discovery, emergence, or durable comparative advantage has already been demonstrated.

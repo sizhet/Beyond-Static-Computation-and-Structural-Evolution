@@ -337,3 +337,17 @@
 93. Scene-Based Delta Intelligence (SBDI) - \
     Adaptive Scene Boundaries, Framework–Plugin Co-Evolution, and Cross-Domain Structural Spillover. \
     Repository: https://github.com/sizhet/Scene-Based-Delta-Intelligence-SBDI        
+    
+94. Method Evolution and Transfer (MET) - \
+    From implicit capabilities to explicit, testable, transferable, and evolving methods. \
+    Repository: https://github.com/sizhet/Method-Evolution-and-Transfer
+    
+95. SP-READTI - \
+    Subject–Perspective Residual/Evidence-Driven Autonomous Differential Tree Intelligence. \
+    Repository: https://github.com/sizhet/SP-READTI
+    
+96. Contextual Equality, Validation, and Intelligence (CEVI) - \
+    From Ex-Ante Prediction and Subject-Conditioned Equivalence to Validation-Bounded Method Learning. \
+    Repository: https://github.com/sizhet/Contextual-Equality-Validation-and-Intelligence    
+    
+    

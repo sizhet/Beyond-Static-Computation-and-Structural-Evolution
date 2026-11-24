@@ -4,7 +4,7 @@
 
 **Status:** Research synthesis, architectural proposal, and falsifiable research program  
 **Series:** Beyond Static Computation — Five DOI Peaks  
-**Version:** 0.1.0 (research draft)  
+**Version:** 1.0.0 (research draft)  
 **Date:** 2026-11-08
 
 > **Central thesis.** The most consequential possible outcome of the ASSI → D-BTP → CDE → WE-SIO → OCSRE research sequence is not a universal algorithm that solves every task. It is an open, governed mechanism through which representations, residuals, discovery methods, evaluation contracts, and verified capabilities can move between tasks and domains. *Intelligence spillover* is the generation of useful capability beyond the original task boundary; *Relay* is the disciplined handoff that makes such capability inspectable, reproducible, and improvable by others. Neither transfer nor its economic value should be assumed: both require evidence.
@@ -104,7 +104,7 @@ The proposed Relay unit is more than a model weight file, prompt, or executable 
 
 ```yaml
 capability_id: example.directional-delta-search
-version: 0.1.0
+version: 1.0.0
 origin:
   repository: <source-repository>
   artifact: <specific-source-reference>

@@ -4,7 +4,7 @@
 
 **Status:** Research synthesis, architectural proposal, and falsifiable hypotheses  
 **Series:** Beyond Static Computation — Five DOI Peaks  
-**Version:** 0.1.0 (research draft)  
+**Version:** 1.0.0 (research draft)  
 **Date:** 2026-11-08
 
 > **Central thesis.** A residual should not be treated solely as a disposable numerical error or a terminal failure report. In suitable systems, a residual can become a typed, persistent, first-class computational object that locates unfinished work, triggers situated reasoning, guides constrained delta generation, supports learning, and relays validated discoveries. *Residual-first* specifies an attention and organization principle; *in-situ intelligence* specifies a locality and continuity principle. Their conjunction is a research hypothesis, not a demonstrated universal superiority claim.
