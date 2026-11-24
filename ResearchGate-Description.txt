@@ -11,4 +11,4 @@ OCSRE: https://github.com/sizhet/Object-Centric-Structural-Reasoning-and-Evoluti
 
 Authors: Sizhe Tan and GPT-Obot
 License: Apache-2.0
-DOI: Pending assignment upon publication; no DOI is claimed here.
+DOI: 10.5281/zenodo.24490278

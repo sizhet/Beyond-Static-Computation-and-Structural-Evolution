@@ -168,8 +168,6 @@ The following navigational, publication, and metadata files are part of the inte
 | `.zenodo.json` | Zenodo deposit metadata, with correct leading dot |
 | `LICENSE` | Repository license (Apache-2.0 intended; verify the actual file) |
 
-**Publication hygiene:** Ensure every referenced document exists at its canonical path, each figure has the canonical filename, metadata is syntactically valid, and DOI fields are not invented or filled before issuance.
-
 ## 11. Intended Repository Tree
 
 ```text

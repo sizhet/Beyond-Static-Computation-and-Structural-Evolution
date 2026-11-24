@@ -23,6 +23,7 @@ authors:
 version: 1.0.0
 license: Apache-2.0
 date-released: '2026-11-23'
+doi: 10.5281/zenodo.24490278
 keywords:
   - structural intelligence
   - object-native computing
