@@ -2,7 +2,7 @@
 
 **Repository:** Beyond Static Computation and Structural Evolution  
 **Document status:** Research agenda; proposals and hypotheses, not validated findings  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08
 
 ## 1. Purpose and Scope

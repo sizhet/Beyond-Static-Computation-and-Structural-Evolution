@@ -5,7 +5,7 @@
 **A reader's guide to object-native intelligence, residual-first computation, persistent structural discovery, and evidence-governed capability relay**
 
 **Status:** Research framework and experimental program; not a claim of demonstrated superiority or a production-ready runtime.  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08
 
 ---

@@ -1,6 +1,6 @@
 # Figure Index — Beyond Static Computation and Structural Evolution
 
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08  
 **Status:** Research figure plan and editorial insertion guide; conceptual illustrations are not empirical evidence.
 

@@ -1,7 +1,7 @@
 # GLOSSARY — Structural Evolution and Persistent Intelligence
 
 **Repository:** Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08  
 **Status:** Working research terminology; definitions and interfaces remain subject to validation
 

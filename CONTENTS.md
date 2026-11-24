@@ -1,7 +1,7 @@
 # CONTENTS — Repository Guide and Research Cross-Index
 
 **Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence**  
-**Version:** 0.1.0 · **Date:** 2026-11-08 · **Status:** Research synthesis, proposed specifications, and experimental protocols
+**Version:** 1.0.0 · **Date:** 2026-11-08 · **Status:** Research synthesis, proposed specifications, and experimental protocols
 
 > **Interpretation note.** This index describes research documents and planned validation activities. A specification is not an implementation; a laboratory design is not a completed experiment; a hypothesis is not a validated result. Links are repository-relative and assume the directory layout below.
 
@@ -60,11 +60,11 @@ This is an explanatory dependency map, not a claim that the research program alr
 
 | Document | Function | Status |
 | --- | --- | --- |
-| [RESEARCH-DIVERGENCES.md](research/RESEARCH-DIVERGENCES.md) | Records alternative explanations, disagreements, and research forks (RD-001–RD-012) | Drafted |
-| [OPEN-QUESTIONS.md](research/OPEN-QUESTIONS.md) | Unresolved theoretical, engineering, and validation questions | Drafted |
-| [TESTABLE-HYPOTHESES.md](research/TESTABLE-HYPOTHESES.md) | Falsifiable claims TH-001–TH-018, baselines, ablations, and measurement plans | Drafted |
-| [VALIDATION-ROADMAP.md](research/VALIDATION-ROADMAP.md) | Staged validation, phase gates, evidence requirements, and research milestones | Drafted |
-| [STRUCTURAL-CLAIMS-REGISTRY.md](research/STRUCTURAL-CLAIMS-REGISTRY.md) | Planned claim-to-source-to-evidence registry; must not imply unverified claims are established | **Planned** |
+| [RESEARCH-DIVERGENCES.md](research/RESEARCH-DIVERGENCES.md) | Records alternative explanations, disagreements, and research forks (RD-001–RD-012) | Included |
+| [OPEN-QUESTIONS.md](research/OPEN-QUESTIONS.md) | Unresolved theoretical, engineering, and validation questions | Included |
+| [TESTABLE-HYPOTHESES.md](research/TESTABLE-HYPOTHESES.md) | Falsifiable claims TH-001–TH-018, baselines, ablations, and measurement plans | Included |
+| [VALIDATION-ROADMAP.md](research/VALIDATION-ROADMAP.md) | Staged validation, phase gates, evidence requirements, and research milestones | Included |
+| [STRUCTURAL-CLAIMS-REGISTRY.md](research/STRUCTURAL-CLAIMS-REGISTRY.md) | Claim-to-source-to-evidence registry; must not imply unverified claims are established | Included |
 
 **Evidence rule:** Retain negative results, inconclusive tests, failed transfer attempts, and unresolved residuals. No candidate capability should be labeled *validated* without meeting its applicable contract and evidence gate.
 

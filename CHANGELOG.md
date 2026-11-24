@@ -10,7 +10,6 @@ The format follows the principles of [Keep a Changelog](https://keepachangelog.c
 
 ### Planned
 
-- Complete and cross-check `STRUCTURAL-CLAIMS-REGISTRY.md`, including stable claim identifiers, maturity levels, evidence links, and unresolved counterarguments.
 - Audit links, figure names, captions, and the ten figure placements against the final repository contents.
 - Publish versioned experimental preregistrations, data provenance statements, and reproducibility packages when experiments are actually conducted.
 - Record independent replication attempts, counterexamples, failed experiments, and revisions to previously proposed claims.
@@ -20,7 +19,7 @@ The format follows the principles of [Keep a Changelog](https://keepachangelog.c
 
 Before the first tagged release, verify that all referenced files and images exist, that links resolve, that `CITATION.cff` and `.zenodo.json` match the final title/authors/version, and that the LICENSE file is present. These checks are **not** represented as completed here.
 
-## [1.0.0] — Proposed initial research release (2026-11-08)
+## [1.0.0] — Initial research release (2026-11-08)
 
 **Status:** Draft release scope; not a declaration that a GitHub tag, Zenodo deposit, DOI, or independent validation has occurred.
 
@@ -66,9 +65,9 @@ These are **experimental protocols**, not reports of successful completed experi
 - `CHANGELOG.md`: versioned record of research-artifact changes and release caveats.
 - `CITATION.cff`, `.zenodo.json`, `LICENSE`, and release notes: publication metadata and licensing files to be finalized and verified for the tagged release.
 
-### Figures — Planned release inventory
+### Figures 
 
-The intended figure set comprises ten numbered figures, from `Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png` through `Fig-010-Structural-Claims-Validation-and-Relay-Roadmap.png`, covering the six core papers, three laboratories, and validation roadmap. Inclusion in this changelog is an **inventory target**, not a claim that every final named file is already present or visually verified.
+Ten numbered figures, from `Fig-001-Five-DOI-Peaks-and-Structural-Convergence.png` through `Fig-010-Structural-Claims-Validation-and-Relay-Roadmap.png`.
 
 ### Research boundaries
 
