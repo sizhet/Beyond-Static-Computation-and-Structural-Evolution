@@ -2,7 +2,7 @@
 
 **Persistent Structural Discovery in Nonstationary Financial Markets**  
 **Status:** Proposed experimental protocol; not empirical evidence  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08  
 **Program:** Beyond Static Computation — Object-Centric Structural Evolution and Persistent Intelligence
 

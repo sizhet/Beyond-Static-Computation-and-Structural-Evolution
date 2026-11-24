@@ -3,7 +3,7 @@
 ## Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence
 
 **Status:** Research roadmap / proposed validation program  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08  
 **Scope:** ASSI → D-BTP → CDE → WE-SIO → OCSRE, and their proposed integration with Residual-First, in-situ intelligence, persistent structural discovery, and Collective Learning Relay.
 

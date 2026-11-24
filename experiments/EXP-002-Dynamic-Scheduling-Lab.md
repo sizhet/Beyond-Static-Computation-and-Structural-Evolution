@@ -3,7 +3,7 @@
 **Subtitle:** Testing Constrained Delta Evolution, Object-Centric Structural Reasoning, Residual-First Adaptation, and Capability Relay in Dynamic School Transportation
 
 **Status:** Research experiment specification — proposed, not executed  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08  
 **Companion:** EXP-001-SQL-Discovery-Lab.md; EXP-003-Stock-Pattern-Lab.md
 

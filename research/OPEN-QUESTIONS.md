@@ -3,7 +3,7 @@
 **Project:** Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence  
 **Document:** `OPEN-QUESTIONS.md`  
 **Status:** Open research agenda — hypotheses and architectural proposals, not established results  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08
 
 ## 1. Purpose and Scope

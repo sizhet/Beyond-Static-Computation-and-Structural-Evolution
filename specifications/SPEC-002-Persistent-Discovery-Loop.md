@@ -1,6 +1,6 @@
 # SPEC-002 — Persistent Structural Discovery Loop
 
-**Status:** Research specification / proposed contract (v0.1.0)  
+**Status:** Research specification / proposed contract (v1.0.0)  
 **Scope:** Object-centric, residual-first, continuously operating structural discovery  
 **Companion:** `SPEC-001-Object-Residual-Delta-Interfaces.md`  
 **Research context:** ASSI → D-BTP → CDE → WE-SIO → OCSRE  

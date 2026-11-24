@@ -1,6 +1,6 @@
 # SPEC-001 — Object, Residual, and Delta Interfaces
 
-**Status:** Proposed research specification (v0.1.0)  
+**Status:** Proposed research specification (v1.0.0)  
 **Scope:** WE-SIO / CDE / OCSRE interoperability  
 **Normative language:** MUST, SHOULD, MAY describe proposed conformance requirements, not claims of existing implementations.
 
@@ -54,7 +54,7 @@ Implementations MUST NOT silently overwrite prior revisions. They SHOULD use con
 ```yaml
 record_type: object
 record_id: "we://inventory/item-42"
-schema_version: "0.1.0"
+schema_version: "1.0.0"
 revision: 7
 created_at: "2026-11-08T12:00:00Z"
 updated_at: "2026-11-08T12:05:00Z"
@@ -102,7 +102,7 @@ Recommended `residual_kind` values are `prediction`, `constraint`, `explanation`
 ```yaml
 record_type: residual
 record_id: "res://inventory/shortfall-104"
-schema_version: "0.1.0"
+schema_version: "1.0.0"
 revision: 1
 created_at: "2026-11-08T12:06:00Z"
 updated_at: "2026-11-08T12:06:00Z"
@@ -158,7 +158,7 @@ A Delta is a **proposal**, not a committed mutation. It MUST declare its target,
 ```yaml
 record_type: delta
 record_id: "delta://inventory/reorder-22"
-schema_version: "0.1.0"
+schema_version: "1.0.0"
 revision: 1
 created_at: "2026-11-08T12:07:00Z"
 updated_at: "2026-11-08T12:07:00Z"

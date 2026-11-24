@@ -1,6 +1,6 @@
 # SPEC-003 — Validation and Relay Contracts
 
-**Status:** Research specification / proposed contract (v0.1.0)  
+**Status:** Research specification / proposed contract (v1.0.0)  
 **Scope:** Evidence governance, independent validation, capability packaging, cross-context transfer, and Collective Learning Relay  
 **Companions:** `SPEC-001-Object-Residual-Delta-Interfaces.md`; `SPEC-002-Persistent-Discovery-Loop.md`  
 **Research context:** ASSI → D-BTP → CDE → WE-SIO → OCSRE  
@@ -377,4 +377,4 @@ The purpose of this specification is to preserve those distinctions while enabli
 
 ---
 
-**Research note:** Proposed v0.1.0 research contracts. No claim of external standardization, deployed conformance, or demonstrated general intelligence emergence is made.
+**Research note:** Proposed v1.0.0 research contracts. No claim of external standardization, deployed conformance, or demonstrated general intelligence emergence is made.

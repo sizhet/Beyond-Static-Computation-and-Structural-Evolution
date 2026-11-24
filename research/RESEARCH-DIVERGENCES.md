@@ -3,7 +3,7 @@
 **Project:** Beyond Static Computation: Object-Centric Structural Evolution and Persistent Intelligence  
 **Document:** `research/RESEARCH-DIVERGENCES.md`  
 **Status:** Living research record — discussion positions, not settled consensus  
-**Version:** 0.1.0 (2026-11-08)  
+**Version:** 1.0.0 (2026-11-08)  
 **Research context:** ASSI → D-BTP → CDE → WE-SIO → OCSRE
 
 ## Abstract

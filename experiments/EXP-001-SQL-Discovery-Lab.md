@@ -1,7 +1,7 @@
 # EXP-001 — SQL Structural Discovery Laboratory
 
 **Status:** Proposed experimental protocol (not an implemented or validated system)  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Research program:** Beyond Static Computation — Object-Centric Structural Evolution and Persistent Intelligence  
 **Related specifications:** SPEC-001 (Object–Residual–Delta Interfaces), SPEC-002 (Persistent Discovery Loop), SPEC-003 (Validation and Relay Contracts)
 

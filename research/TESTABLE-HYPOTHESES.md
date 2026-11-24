@@ -1,7 +1,7 @@
 # Testable Hypotheses: Object-Native Structural Evolution and Persistent Intelligence
 
 **Status:** Research hypotheses; not validated findings  
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Date:** 2026-11-08  
 **Scope:** Cross-cutting research program connecting ASSI, D-BTP, CDE, WE-SIO, and OCSRE
 
